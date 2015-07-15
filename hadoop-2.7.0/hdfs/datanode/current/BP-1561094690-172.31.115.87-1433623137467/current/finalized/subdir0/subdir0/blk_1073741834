@@ -1,0 +1,1 @@
+>jobId=job_1433675147938_0001,submitTime=1433675768281,launchTime=1433675777483,firstMapTaskLaunchTime=0,firstReduceTaskLaunchTime=0,finishTime=1433675786755,resourcesPerMap=1024,resourcesPerReduce=1024,numMaps=1,numReduces=1,user=root,queue=default,status=FAILED,mapSlotSeconds=0,reduceSlotSeconds=0,jobName=word count
